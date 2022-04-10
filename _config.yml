@@ -91,10 +91,10 @@ toc:
 mathjax: true
 mathjax_autoNumber: true
 
-## Mermaid
+## Mermaid 流程图
 mermaid: # false (default), true
 
-## Chart
+## Chart  表格
 chart: # false (default), true
 
 
